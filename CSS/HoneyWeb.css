@@ -1,0 +1,190 @@
+body {
+	margin: 0;
+}
+
+
+#Top0 {
+	background-color: #DCDCDC;
+	margin: 0;
+	height: 50px;
+}
+
+#TopBar {
+	float: right;
+	text-decoration: none;
+	overflow: hidden;
+	padding-top: 20px;
+}
+
+#TopBar a {
+	text-decoration: none;
+	color: black;
+	padding-right: 10px;
+}
+
+
+#NavBar {
+	height: 100px;
+	display: inline;  
+}
+
+
+#NavLogo {
+	display: inline;
+	
+	}
+
+
+#NavLogo h1 {
+	margin: 0;
+	padding-left: 10px;
+
+}
+
+
+#NavLogo p {
+	display: inline;
+	padding-left: 10px;
+
+
+
+}
+
+nav {
+	float: right;
+	display: inline;
+	padding-right: 10px;
+
+	
+}
+
+nav a {
+	text-decoration: none;
+	color: grey;
+}
+
+
+
+
+
+#image {
+	background-image: url(../honey.jpg);
+	width: 100%;
+	height: 500px;
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+
+
+
+.clear {
+	clear: both;
+}
+
+#article {
+	text-align: center;
+	background-color: #DCDCDC;
+	height: 180px;
+	margin: 0;
+	padding-top: 80px;
+
+}
+
+#article h1 {
+	margin: 0;
+}
+
+.art-img p {
+	text-align: justify;
+}
+.art-img  {
+	float: left;
+	width: 350px;
+	padding: 30px;
+	margin: 20px;
+}
+
+#Sub-articles {
+	margin-left: 20px;
+}
+
+.art-img img {
+	width: 350px;
+	height: 100px;
+
+
+
+}
+
+
+
+#twitter-link {
+	text-align: center;
+	height: 80px;
+	width: 100%;
+	background-color: #DCDCDC;
+	padding-top: 30px;
+
+}
+
+footer {
+	background-color: #D3D3D3;
+}
+.footersection {
+	float: left;
+	width: 350px;
+	padding: 30px;
+	margin: 20px;
+	
+	
+
+}
+
+.footersection .Feras {
+display: grid;
+	grid-gap: 10px;
+	grid-template-columns: 70px 70px 70px;
+
+
+}
+
+
+
+
+.pix img {
+	width: 70px;
+	height: 50px;
+	margin: 0;
+	}
+
+.footersection ul {
+	list-style-type: none;
+	padding-left: 2px;
+	
+}
+.footersection ul li a{
+	line-height: 30px;
+	text-decoration: none;
+	color: black;
+	}
+
+#lastfooter {
+	margin: 0;
+	height: 50px;
+	background-color: white;
+
+}
+
+#lastfooter p {
+	float: left;
+}
+
+#icons img {
+	width: 40px;
+	float: right;
+	padding-top: 5px;
+	padding: 5px;
+}
+
+
